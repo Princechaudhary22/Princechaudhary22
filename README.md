@@ -53,7 +53,12 @@ Welcome to my GitHub profile! I'm Prince, a Data Science enthusiast with a passi
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk422251@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chaudhary-4483b2176) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princechaudhary22)
 
-![Snake animation](https://github.com/Princechaudhary22/Princechaudhary22/blob/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princechaudhary22/Princechaudhary22/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princechaudhary22/Princechaudhary22/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Princechaudhary22/Princechaudhary22/output/github-snake-light.svg">
+</picture>
+
 <!---
 Princechaudhary22/Princechaudhary22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
