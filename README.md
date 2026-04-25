@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm Prince, a Data Science enthusiast with a passi
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Princechaudhary22&theme=dark)](https://github.com/Princechaudhary22)
 
 ## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Princechaudhary22&theme=dark&hide_border=true&repo=Customer-Shopping-Behavior-Analysis)](https://github.com/Princechaudhary22/Customer-Shopping-Behavior-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Princechaudhary22&theme=dark&hide_border=true&repo=Netflix_EDA-Python-Project)](https://github.com/Princechaudhary22/Netflix_EDA-Python-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Princechaudhary22&theme=dark&hide_border=true&repo=Telecom-Customer-Churn-Prediction)](https://github.com/Princechaudhary22/Telecom-Customer-Churn-Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Princechaudhary22&theme=dark&hide_border=true&repo=Loan-Approval-Prediction)](https://github.com/Princechaudhary22/Loan-Approval-Prediction)
